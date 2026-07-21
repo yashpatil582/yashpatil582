@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="150" viewBox="0 0 350 150" role="img" aria-label="Most used languages">
+  <title>Most used languages across yashpatil582's public repositories</title>
+  <style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif}</style>
+  <rect width="350" height="150" rx="4.5" fill="#0D1117"/>
+  <text x="25" y="35" fill="#6366F1" font-size="18" font-weight="600">Most Used Languages</text>
+  <mask id="m"><rect x="25" y="53" width="300" height="8" rx="5" fill="#fff"/></mask>
+  <g mask="url(#m)" transform="translate(25,53)"><rect x="0.0" width="165.9" height="8" fill="#3572A5"/><rect x="164.9" width="102.6" height="8" fill="#3178c6"/><rect x="266.5" width="15.3" height="8" fill="#e34c26"/><rect x="280.8" width="10.6" height="8" fill="#663399"/><rect x="290.4" width="7.9" height="8" fill="#34c0eb"/><rect x="297.3" width="3.7" height="8" fill="#89e051"/></g>
+  <circle cx="30" cy="79" r="5" fill="#3572A5"/><text x="41" y="83" fill="#FFFFFF" font-size="11">Python 55.0%</text><circle cx="30" cy="99" r="5" fill="#3178c6"/><text x="41" y="103" fill="#FFFFFF" font-size="11">TypeScript 33.9%</text><circle cx="30" cy="119" r="5" fill="#e34c26"/><text x="41" y="123" fill="#FFFFFF" font-size="11">HTML 4.8%</text><circle cx="192" cy="79" r="5" fill="#663399"/><text x="203" y="83" fill="#FFFFFF" font-size="11">CSS 3.2%</text><circle cx="192" cy="99" r="5" fill="#34c0eb"/><text x="203" y="103" fill="#FFFFFF" font-size="11">Cypher 2.3%</text><circle cx="192" cy="119" r="5" fill="#89e051"/><text x="203" y="123" fill="#FFFFFF" font-size="11">Shell 0.9%</text>
+</svg>

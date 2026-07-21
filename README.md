@@ -42,7 +42,7 @@ More: [circuit-extract](https://github.com/yashpatil582/circuit-extract) (circui
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatil582&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" />
+<img width="60%" src="top-langs.svg" alt="Most used languages: Python 55%, TypeScript 34%, HTML, CSS, Cypher, Shell" />
 
 *Open to conversations about LLM evaluation, agent infrastructure, and healthcare AI.*
 
